@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://media.tenor.com/4F1QwYwQ2JwAAAAC/teen-star-goku.gif" width="400" alt="Goku GIF" />
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&width=600&lines=Welcome+to+My+GitHub!;AI+%26+Data+Science+%7C+ML+Enthusiast+%7C+Anime+%26+Gaming+Fan;Always+Learning+%F0%9F%9A%80" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&width=600&lines=Welcome+to+My+GitHub!;AI+%26+Data+Science+%7C+ML+Enthusiast+%7C+Anime+%26+Gaming+Fan;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
 
