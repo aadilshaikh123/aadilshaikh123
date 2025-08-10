@@ -31,7 +31,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
 **🎯 Valorant:** Ragebaiting my friends as a Raze main 
 <br>
- **📺 Anime:** re-watching hunterxhunter for the nth time! 
+ **📺 Anime:** Re-watching hunterxhunter for the nth time! 
 <br>
 **☕ Coffee:** Fuel for those late-night ML training sessions
 
