@@ -31,7 +31,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
   <div style="display:inline-block; vertical-align:top;">
     <img src="https://github-readme-stats.vercel.app/api?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </div>
-  <div style="display:inline-block; vertical-align:top;">
+  <div style="display:inline; vertical-align:top;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=dark&hide_border=false" alt="GitHub Streak" />
   </div>
 <div style="position:absolute; top:0; right:0;">
