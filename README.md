@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&width=1000&lines=Welcome+to+My+GitHub!;AI+Data+Science+ML+Enthusiast+Anime+%26+Gaming+Fan;Always+Learning+%F0%9F%9A%80" width="1000" alt="Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadilshaikh123&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Counter" />
-</div>
 
 
 <!-- AI Coding Animation -->
@@ -40,6 +37,9 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadilnawaz-shaikh/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhaadilnawaz1@gmail.com)
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=aadilshaikh123&label=Visitors&color=0e75b6&style=flat-square" alt="Visitor Counter" />
+</div>
 ---
 
 <div align="center">
