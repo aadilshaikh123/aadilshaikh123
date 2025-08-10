@@ -6,7 +6,7 @@
 
 <!-- AI Coding Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/lofi-study.gif" width="500" alt="Lofi Study GIF" />
+  <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/chilled-lamb-mienar.gif" width="500" alt="Chilled Lamb Mienar GIF" />
 </div>
 
 <div align="center">
