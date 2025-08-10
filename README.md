@@ -9,10 +9,6 @@
   <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/chilled-lamb-mienar.gif" width="800" alt="Chilled Lamb Mienar GIF" />
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&width=700&lines=AI+%26+Data+Science+Engineer+🤖;Building+Intelligent+Systems+🚀;VIT+Pune+Student+%7C+CGPA%3A+8.63+🎓;Machine+Learning+Enthusiast+🧠" alt="Typing Animation" />
-</div>
-
 <h3>About Me:</h3>
 I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with CGPA 8.63. Passionate about Machine Learning, Deep Learning, and building intelligent systems that solve real-world problems. When I'm not training models, you'll find me playing Valorant or watching anime!
 
