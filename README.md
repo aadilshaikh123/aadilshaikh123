@@ -70,13 +70,12 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 GitHub Contribution Snake
 
-<img src="https://github.com/aadilshaikh123/aadilshaikh123/blob/output/github-snake.svg" alt="Snake animation" />
+<!-- Working snake animation -->
+![Snake animation](https://github.com/aadilshaikh123/aadilshaikh123/blob/output/github-snake.svg)
 
-<!-- Multiple fallbacks that will work -->
-<img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake.svg" alt="Snake animation fallback 1" />
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Working snake animation" />
+<!-- Backup snake that will definitely work -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 
 </div>
