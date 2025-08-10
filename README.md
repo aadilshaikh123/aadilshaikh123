@@ -69,17 +69,13 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 ---
 
 <div align="center">
-  
-### 🐍 Watch my contributions get eaten by the snake!
+
+### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake.svg">
 </picture>
-
-<!-- Fallback snake animation if the above doesn't work -->
-<br>
-<img src="https://github.com/aadilshaikh123/aadilshaikh123/raw/output/github-snake.svg" alt="Snake animation" />
 
 </div>
