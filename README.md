@@ -1,23 +1,21 @@
 
 <div align="center">
-  <svg viewBox="0 0 800 120" width="1000" height="120" xmlns="http://www.w3.org/2000/svg">
+  <svg viewBox="0 0 800 160" width="1000" height="160" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="waveGradient" x1="0" y1="0" x2="1" y2="0">
         <stop offset="0%" stop-color="#00F5FF"/>
         <stop offset="100%" stop-color="#0077B5"/>
       </linearGradient>
-      <pattern id="wave" x="0" y="0" width="120" height="120" patternUnits="userSpaceOnUse">
-        <path id="wavePath" d="M0 60 Q 30 20 60 60 T 120 60 V120 H0Z" fill="url(#waveGradient)">
-          <animateTransform attributeName="transform" type="translate" from="0,0" to="120,0" dur="2s" repeatCount="indefinite" />
-        </path>
-      </pattern>
     </defs>
-    <text x="50%" y="60" text-anchor="middle" font-size="48" font-family="Fira Code, monospace" font-weight="700" fill="url(#wave)">
+    <text x="50%" y="70" text-anchor="middle" font-size="48" font-family="Fira Code, monospace" font-weight="700" fill="url(#waveGradient)">
       Welcome to My GitHub!
     </text>
-    <text x="50%" y="105" text-anchor="middle" font-size="28" font-family="Fira Code, monospace" font-weight="700" fill="url(#waveGradient)">
+    <text x="50%" y="115" text-anchor="middle" font-size="28" font-family="Fira Code, monospace" font-weight="700" fill="url(#waveGradient)">
       AI · Data Science · ML Enthusiast · Anime & Gaming Fan · Always Learning 🚀
     </text>
+    <path d="M0 130 Q 200 100 400 130 T 800 130 V160 H0Z" fill="url(#waveGradient)" opacity="0.3"/>
+    <path d="M0 140 Q 200 110 400 140 T 800 140 V160 H0Z" fill="url(#waveGradient)" opacity="0.5"/>
+    <path d="M0 150 Q 200 120 400 150 T 800 150 V160 H0Z" fill="url(#waveGradient)" opacity="0.7"/>
   </svg>
 </div>
 
