@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadil%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Enthusiast%20%7C%20AI%2FML%20Developer&descSize=16&descAlignY=51" width="100%" alt="Aadil Shaikh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31,32,33,34,35&height=180&section=header&text=Aadil%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Enthusiast%20%7C%20AI%2FML%20Developer&descSize=16&descAlignY=51" width="100%" alt="Aadil Shaikh Banner" />
 </div>
 
 
