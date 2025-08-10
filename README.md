@@ -72,9 +72,6 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
 ### 🐍 GitHub Contributions Snake
 
-![Snake animation](https://github.com/aadilshaikh123/aadilshaikh123/blob/output/snake.svg)
-
-<!-- Fallback working snake -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
