@@ -1,22 +1,6 @@
 
 <div align="center">
-  <svg viewBox="0 0 800 160" width="1000" height="160" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="waveGradient" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#00F5FF"/>
-        <stop offset="100%" stop-color="#0077B5"/>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="70" text-anchor="middle" font-size="48" font-family="Fira Code, monospace" font-weight="700" fill="url(#waveGradient)">
-      Welcome to My GitHub!
-    </text>
-    <text x="50%" y="115" text-anchor="middle" font-size="28" font-family="Fira Code, monospace" font-weight="700" fill="url(#waveGradient)">
-      AI · Data Science · ML Enthusiast · Anime & Gaming Fan · Always Learning 🚀
-    </text>
-    <path d="M0 130 Q 200 100 400 130 T 800 130 V160 H0Z" fill="url(#waveGradient)" opacity="0.3"/>
-    <path d="M0 140 Q 200 110 400 140 T 800 140 V160 H0Z" fill="url(#waveGradient)" opacity="0.5"/>
-    <path d="M0 150 Q 200 120 400 150 T 800 150 V160 H0Z" fill="url(#waveGradient)" opacity="0.7"/>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadil%20Shaikh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%7C%20Data%20Science%20%7C%20ML%20Enthusiast%20%7C%20Anime%20%26%20Gaming%20Fan%20%7C%20Always%20Learning%20%F0%9F%9A%80&descSize=16&descAlignY=51" width="100%" alt="Aadil Shaikh Banner" />
 </div>
 
 
