@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Your awesome Hype GIF -->
-<img src="https://media.tenor.com/NRhA3hhORFsAAAAM/hype.gif" width="100%" alt="Hype GIF">
+<img src="https://media1.tenor.com/m/o4x3rsdAWvQAAAAd/hype.gif" width="100%" alt="Hype GIF">
 
 </div>
 
