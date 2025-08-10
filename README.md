@@ -73,12 +73,9 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake-neon.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-snake-neon.svg">
 </picture>
-
-<!-- Backup animation while workflow generates the real one -->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation backup" />
 
 </div>
