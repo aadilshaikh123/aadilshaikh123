@@ -1,5 +1,24 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F5FF&center=true&width=1000&lines=Welcome+to+My+GitHub!;AI+Data+Science+ML+Enthusiast+Anime+%26+Gaming+Fan;Always+Learning+%F0%9F%9A%80" width="1000" alt="Typing Animation" />
+  <svg viewBox="0 0 800 120" width="1000" height="120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="waveGradient" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#00F5FF"/>
+        <stop offset="100%" stop-color="#0077B5"/>
+      </linearGradient>
+      <pattern id="wave" x="0" y="0" width="120" height="120" patternUnits="userSpaceOnUse">
+        <path id="wavePath" d="M0 60 Q 30 20 60 60 T 120 60 V120 H0Z" fill="url(#waveGradient)">
+          <animateTransform attributeName="transform" type="translate" from="0,0" to="120,0" dur="2s" repeatCount="indefinite" />
+        </path>
+      </pattern>
+    </defs>
+    <text x="50%" y="60" text-anchor="middle" font-size="48" font-family="Fira Code, monospace" font-weight="700" fill="url(#wave)">
+      Welcome to My GitHub!
+    </text>
+    <text x="50%" y="105" text-anchor="middle" font-size="28" font-family="Fira Code, monospace" font-weight="700" fill="url(#waveGradient)">
+      AI · Data Science · ML Enthusiast · Anime & Gaming Fan · Always Learning 🚀
+    </text>
+  </svg>
 </div>
 
 
