@@ -28,7 +28,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 <div style="width:100vw; min-height:240px; position:relative;">
   
   </div>
-  <div style="display:inline-block; ">
+  <div >
     <img src="https://github-readme-stats.vercel.app/api?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </div>
 <div style="display:flex">
@@ -37,7 +37,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
     <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/asta-anime.gif" width="220" alt="Asta Anime GIF" style="border-radius:12px;" />
 </div>
 </div>
-  <div style="display:inline-block; ">
+  <div  >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </div>
 </div>
