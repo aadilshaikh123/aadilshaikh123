@@ -27,7 +27,7 @@
 
 <!-- AI Coding Animation -->
 <div align="center">
-  <img src="https://media.tenor.com/bC4yk.gif" width="500" alt="Chilled Lamb Lofi Study GIF" />
+  <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/lofi-study.gif" width="500" alt="Lofi Study GIF" />
 </div>
 
 <div align="center">
