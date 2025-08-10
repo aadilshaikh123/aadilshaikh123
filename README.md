@@ -28,7 +28,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 </div>
 
 <div style="width:100%; min-height:240px; position:relative; display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap;">
-  <div style="display:flex; flex-direction:column; gap:8px;">
+  <div style="display:flex; flex-direction:column; gap:16px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=dark&hide_border=false" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
