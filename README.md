@@ -18,12 +18,6 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3>🚀 Featured Projects:</h3>
-
-**🚗 [CarSensAI](https://github.com/aadilshaikh123/CarSensAI)** - AI-Powered Mechanical Engineering Assistant using LLaMA 3.2-1B + Vector DB  
-**🗑️ [Litter-ally Clean](https://github.com/aadilshaikh123/Litter-ally-Clean)** - Smart Garbage Management with AI detection + Geospatial mapping  
-**🎮 [GameHub AI Games](https://github.com/aadilshaikh123/Gamehub-Ai_Games)** - C++ game collection with intelligent AI opponents  
-**👁️ VisionOCR Pro** - Advanced OCR system with 95%+ accuracy across multiple languages
 
 <h3>📊 GitHub Stats:</h3>
 
