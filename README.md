@@ -1,7 +1,36 @@
-<h1>Hello World!! 🤖 I am Aadilnawaz</h1>
-<img align="right" alt="AI Coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<div align="center">
+  <pre>
+  ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+  ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+  ██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
+  
+  ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗    ████████╗ ██████╗ 
+  ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝    ╚══██╔══╝██╔═══██╗
+  ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗         ██║   ██║   ██║
+  ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝         ██║   ██║   ██║
+  ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗       ██║   ╚██████╔╝
+   ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝       ╚═╝    ╚═════╝ 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&width=600&lines=AI+%26+Data+Science+Engineer;Building+Intelligent+Systems;VIT+Pune+Student+%7C+CGPA%3A+8.63;Machine+Learning+Enthusiast" alt="Typing Animation" />
+  ███╗   ███╗██╗   ██╗     ██╗   ██╗███╗   ██╗██╗██╗   ██╗███████╗██████╗ ███████╗███████╗
+  ████╗ ████║╚██╗ ██╔╝     ██║   ██║████╗  ██║██║██║   ██║██╔════╝██╔══██╗██╔════╝██╔════╝
+  ██╔████╔██║ ╚████╔╝      ██║   ██║██╔██╗ ██║██║██║   ██║█████╗  ██████╔╝███████╗█████╗  
+  ██║╚██╔╝██║  ╚██╔╝       ██║   ██║██║╚██╗██║██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚════██║██╔══╝  
+  ██║ ╚═╝ ██║   ██║        ╚██████╔╝██║ ╚████║██║ ╚████╔╝ ███████╗██║  ██║███████║███████╗
+  ╚═╝     ╚═╝   ╚═╝         ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+  </pre>
+</div>
+
+<!-- AI Coding Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&width=700&lines=AI+%26+Data+Science+Engineer+🤖;Building+Intelligent+Systems+🚀;VIT+Pune+Student+%7C+CGPA%3A+8.63+🎓;Machine+Learning+Enthusiast+🧠" alt="Typing Animation" />
+</div>
 
 <h3>About Me:</h3>
 I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with CGPA 8.63. Passionate about Machine Learning, Deep Learning, and building intelligent systems that solve real-world problems. When I'm not training models, you'll find me playing Valorant or watching anime!
@@ -39,8 +68,10 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
 ---
 
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aadilshaikh123/aadilshaikh123/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/aadilshaikh123/aadilshaikh123/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/aadilshaikh123/aadilshaikh123/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
