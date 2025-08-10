@@ -26,8 +26,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
 
 <div style="width:100%; min-height:240px; position:relative;">
-  <div style="position:absolute; top:0; right:0;">
-    <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/asta-anime.gif" width="220" alt="Asta Anime GIF" style="border-radius:12px;" />
+  
   </div>
   <div style="display:inline-block; vertical-align:top;">
     <img src="https://github-readme-stats.vercel.app/api?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -35,6 +34,8 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
   <div style="display:inline-block; vertical-align:top;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=dark&hide_border=false" alt="GitHub Streak" />
   </div>
+<div style="position:absolute; top:0; right:0;">
+    <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/asta-anime.gif" width="220" alt="Asta Anime GIF" style="border-radius:12px;" />
   <div style="display:inline-block; vertical-align:top;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </div>
