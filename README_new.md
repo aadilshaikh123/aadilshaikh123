@@ -11,87 +11,56 @@
 
 ## 💫 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Problem+Solver+%26+Innovator;Coffee+Powered+Developer+%E2%98%95;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
-</div>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🚀 Who Am I?
-
-Hey! I'm **Aadil**, a passionate AI & Data Science Engineer from Pune, India 🇮🇳. Currently in my final year of engineering, I'm on a mission to transform data into meaningful insights and build intelligent solutions that make a real impact.
-
-**🎯 What drives me:**
-- 🧠 Turning complex data into simple stories
-- 🚀 Building AI solutions that matter
-- 💡 Solving real-world problems with code
-- 🌱 Constantly learning and evolving
-
-**⚡ Fun Facts:**
-- 🔥 I debug with music on (it's more fun!)
-- 📊 I dream in Python and think in algorithms
-- ☕ Coffee is my debugging fuel
-- 🎮 I believe coding is the ultimate puzzle game
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
-
-### 💻 Current Focus
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```python
-class AadilShaikh:
+class DataScientist:
     def __init__(self):
+        self.name = "Aadilnawaz Shaikh"
         self.role = "AI & Data Science Engineer"
         self.location = "Pune, India 🇮🇳"
-        self.education = "Final Year Engineering"
-        self.passion = "Building intelligent solutions"
-        self.status = "Always learning, always growing"
-    
-    def current_projects(self):
-        return {
-            "🤖": "Deep Learning for Computer Vision",
-            "📊": "Predictive Analytics Dashboard",
-            "🔍": "NLP for Sentiment Analysis",
-            "☁️": "MLOps Pipeline Development"
-        }
-    
+        self.education = "Final Year Engineering Student"
+        self.languages = ["Python", "SQL", "R", "JavaScript"]
+        self.specialties = ["Machine Learning", "Deep Learning", "Data Analysis"]
+        self.current_focus = "Building AI solutions that matter"
+        self.coffee_consumed = float('inf')
+        self.bugs_created = "Finite (I hope...)"
+        self.bugs_fixed = "More than created (definitely!)"
+        
+    def get_philosophy(self):
+        return "Data is the new oil, but insights are the refined fuel! ⛽"
+        
     def daily_routine(self):
         return [
-            "☕ coffee.brew(strength='strong')",
-            "� knowledge.absorb()",
-            "💻 code.write() && bugs.fix()",
-            "🧠 algorithms.optimize()",
-            "🚀 solutions.deploy()",
-            "� impact.create()"
+            "☕ Coffee.initialize()",
+            "📊 data.analyze() and pattern.discover()", 
+            "🤖 model.train() and accuracy.improve()",
+            "💡 insights.generate() and stories.tell()",
+            "🚀 solutions.deploy() and impact.create()",
+            "📚 knowledge.expand() and skills.level_up()",
+            "🎯 tomorrow.plan() and dreams.chase()"
         ]
     
-    def life_philosophy(self):
-        return "Data tells stories, AI brings them to life! 🚀"
+    def get_current_status(self):
+        return {
+            "🎯": "Building the future with AI",
+            "📈": "Learning MLOps and Cloud Architecture",
+            "🔧": "Experimenting with Computer Vision",
+            "🌱": "Growing in the Data Science ecosystem"
+        }
 
-# Initialize
-me = AadilShaikh()
-print(f"🎯 Mission: {me.passion}")
-print(f"📍 Status: {me.status}")
+# Instance creation and status check
+aadil = DataScientist()
+print(f"🚀 Currently: {aadil.current_focus}")
+print(f"☕ Coffee Status: {aadil.coffee_consumed}")
+for emoji, status in aadil.get_current_status().items():
+    print(f"{emoji} {status}")
 ```
 
-</td>
-</tr>
-</table>
-
 <div align="center">
-
-### 🎯 My Superpowers
-
-<img src="https://img.shields.io/badge/🧠-Problem_Solving-FF6B6B?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/📊-Data_Storytelling-4ECDC4?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/�-AI_Development-45B7D1?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/☕-Coffee_Powered-8D4925?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🚀-Innovation_Mindset-9B59B6?style=for-the-badge&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/☕-Coffee_Driven_Development-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠-Always_Learning-blue?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎯-Mission_Driven-red?style=for-the-badge&logo=target&logoColor=white"/>
 </div>
 
 ## 🛠️ Tech Arsenal & Skills
