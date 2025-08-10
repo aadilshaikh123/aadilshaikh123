@@ -70,12 +70,8 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
 <div align="center">
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contributions Snake
 
-<!-- Working snake animation -->
-![Snake animation](https://github.com/aadilshaikh123/aadilshaikh123/blob/output/github-snake.svg)
-
-<!-- Backup snake that will definitely work -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+![Snake animation](https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/output/snake.svg)
 
 </div>
