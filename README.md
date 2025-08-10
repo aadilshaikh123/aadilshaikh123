@@ -2,8 +2,8 @@
 
 <div align="center">
   
-<!-- Replace this URL with your favorite GIF -->
-<img src="https://your-custom-gif-url-here.gif" width="100%" alt="Your Custom GIF">
+<!-- Your awesome Hype GIF -->
+<img src="https://media.tenor.com/NRhA3hhORFsAAAAM/hype.gif" width="100%" alt="Hype GIF">
 
 </div>
 
