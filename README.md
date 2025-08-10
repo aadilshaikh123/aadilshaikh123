@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.tenor.com/4F1QwYwQ2JwAAAAC/teen-star-goku.gif" width="400" alt="Goku GIF" />
   <pre>
   ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
   ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
