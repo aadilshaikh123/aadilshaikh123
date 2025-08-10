@@ -25,7 +25,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 <h3>📊 GitHub Stats:</h3>
 
 
-</div>
+
 
 <div style="width:100%; min-height:240px; position:relative; display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap;">
   <div style="display:flex; flex-direction:column; gap:16px;">
