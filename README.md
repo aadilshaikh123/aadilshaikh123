@@ -32,7 +32,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 
   <!-- Streak + Anime GIF side-by-side -->
   <div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=dark&hide_border=false" alt="GitHub Streak" />
     <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/asta-anime.gif" width="220" alt="Asta Anime GIF" style="border-radius:12px;" />
   </div>
 
