@@ -34,7 +34,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 <div>
-    <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/asta-anime.gif" width="220" alt="Asta Anime GIF" style="border-radius:12px;" />
+    <img src="https://raw.githubusercontent.com/aadilshaikh123/aadilshaikh123/main/assets/asta-anime.gif" width="150" alt="Asta Anime GIF" style="border-radius:12px;" />
 </div>
 </div>
   <div  >
