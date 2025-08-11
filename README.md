@@ -25,7 +25,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
 <h3>📊 GitHub Stats:</h3>
 
 
-<div style="width:100vw; min-height:240px; position:relative;">
+<div style="width:100vw; ">
   <div >
     <img src="https://github-readme-stats.vercel.app/api?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </div>
