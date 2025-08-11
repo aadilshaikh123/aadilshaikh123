@@ -31,7 +31,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
     <img src="https://github-readme-stats.vercel.app/api?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </div>
 
-  <table>
+  <table border="0">
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=dark&hide_border=false" alt="GitHub Streak" />
