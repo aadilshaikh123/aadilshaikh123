@@ -30,8 +30,7 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </div>
-<div >
-  <table border="4px" >
+  <table border="2px" >
     <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadilshaikh123&theme=transparent&hide_border=true" alt="GitHub Streak" />
@@ -41,7 +40,6 @@ I'm currently pursuing final year B.Tech in AI & Data Science at VIT Pune with C
       </td>
     </tr>
   </table>
-</div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilshaikh123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   </div>
